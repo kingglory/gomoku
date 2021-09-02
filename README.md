@@ -1,5 +1,5 @@
 ## Boyuan's GitHub Pages
-
+![GitHub Logo](/images/logo.png)
 ### Info
 - :octocat: Name: Boyuan Yang
 - 📧: allenyby@udel.edu
@@ -14,7 +14,7 @@
 
 *Technologies need to Master*
 
-![](https://wallhaven.cc/w/p8mey9)
+![GitHub Logo](/images/logo.png)
 
 - **Basics of the Web** (HTML, CSS, JavaScript)
   - https://sun.iwu.edu/~mliffito/cs_codex/posts/web-development-basics/
