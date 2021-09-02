@@ -9,42 +9,35 @@
 - 🖱️Repo: [Source Code](https://github.com/boyuan1228/boyuan1228.github.io/blob/main/README.md)
 
 
+### **Portfolio**
 
+ies and concepts.
 
-
-
-You can use the [editor on GitHub](https://github.com/boyuan1228/boyuan1228.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/boyuan1228/boyuan1228.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+-Basics of the Web (HTML, CSS, JavaScript)
+https://sun.iwu.edu/~mliffito/cs_codex/posts/web-development-basics/ (Links to an external site.)
+-Visual Studio Code
+Good tutorial for installing VS Code, NodeJS, and TypeScript: https://neu-se.github.io/CS4530-CS5500-Spring-2021/tutorials/week1-getting-started (Links to an external site.)
+MAC Users: Not sure if I trust their install script for Node, you might just download directly: https://nodejs.org/en/download/
+-TypeScript
+https://www.typescriptlang.org/docs/handbook/typescript-in-5-minutes.html (Links to an external site.)
+Book: https://www.oreilly.com/library/view/programming-typescript/9781492037644/ (Links to an external site.)
+-React (+Hooks)
+https://reactjs.org/tutorial/tutorial.html (Links to an external site.)
+https://reactjs.org/docs/hooks-intro.html (Links to an external site.)
+Book: https://www.oreilly.com/library/view/learn-react-with/9781789610253/ (Links to an external site.)
+-Git
+https://sun.iwu.edu/~mliffito/cs_codex/posts/how-to-start-using-git/ (Links to an external site.)
+https://sun.iwu.edu/~mliffito/cs_codex/posts/git-cookbook/ (Links to an external site.)
+https://sun.iwu.edu/~mliffito/cs_codex/posts/git-teamwork/ (Links to an external site.)
+-Bootstrap
+https://sun.iwu.edu/~mliffito/cs_codex/posts/bootstrap/ (Links to an external site.)
+-Requirements Gathering
+https://sun.iwu.edu/~mliffito/cs_codex/posts/requirements-gathering/ (Links to an external site.)
+-User Interface Design
+https://sun.iwu.edu/~mliffito/cs_codex/posts/user-interface-design/ (Links to an external site.)
+-Deploying with GitHub Pages
+React App: https://dev.to/yuribenjamin/how-to-deploy-react-app-in-github-pages-2a1f (Links to an external site.)
+Trivial Markdown: https://docs.github.com/en/pages/getting-started-with-github-pages/about-github-pages (Links to an external site.)
+-Testing
+Jest Tutorial: https://neu-se.github.io/CS4530-CS5500-Spring-2021/tutorials/week5-unit-testing (Links to an external site.)
+Jest+React Tutorial: https://www.smashingmagazine.com/2020/06/practical-guide-testing-react-applications-jest/
