@@ -1,4 +1,16 @@
-## Welcome to GitHub Pages
+## Welcome to Boyuan's GitHub Pages
+
+### Info
+- 🧐Name: Boyuan Yang
+- 📧Email: allenyby@udel.edu
+- 👨‍🎓School: University of Delaware
+- 💻GitHub: [MyGitHub](https://github.com/boyuan1228)
+- ⌨️Major: Computer Science, BS
+
+
+
+
+
 
 You can use the [editor on GitHub](https://github.com/boyuan1228/boyuan1228.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
