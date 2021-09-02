@@ -3,9 +3,10 @@
 ### Info
 - 🧐Name: Boyuan Yang
 - 📧Email: allenyby@udel.edu
+- Status: Junior
 - 👨‍🎓School: University of Delaware
 - 💻GitHub: [MyGitHub](https://github.com/boyuan1228)
-- ⌨️Major: Computer Science, BS
+- ⌨️Major: Computer Science, BS I am interested in [Artificial Intelligence and Robotics](https://www.cis.udel.edu/research/artificial-intelligence/)
 - 🖱️Repo: [Source Code](https://github.com/boyuan1228/boyuan1228.github.io/blob/main/README.md)
 
 
