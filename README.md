@@ -2,19 +2,19 @@
 
 ### Info
 - :octocat: Name: Boyuan Yang
-- 📧Email: allenyby@udel.edu
-- 👨‍🎓Status: Junior
+- 📧: allenyby@udel.edu
+- 👨‍🎓:🎓Status: Junior
 - 🏫School: University of Delaware
-- 💻GitHub: [MyGitHub](https://github.com/boyuan1228)
-- ⌨️Major: Computer Science, BS I am interested in [Artificial Intelligence and Robotics](https://www.cis.udel.edu/research/artificial-intelligence/)
-- 🖱️Repository: [Source Code](https://github.com/boyuan1228/boyuan1228.github.io/blob/main/README.md)
+- 💻:GitHub: [MyGitHub](https://github.com/boyuan1228)
+- ⌨️:Major: Computer Science, BS I am interested in [Artificial Intelligence and Robotics](https://www.cis.udel.edu/research/artificial-intelligence/)
+- 🖱️:Repository: [Source Code](https://github.com/boyuan1228/boyuan1228.github.io/blob/main/README.md)
 
 
 ### **Portfolio**
 
 *Technologies need to Master*
 
-![Progress](https://wallhaven.cc/w/p8mey9)
+![](https://wallhaven.cc/w/p8mey9)
 
 - **Basics of the Web** (HTML, CSS, JavaScript)
   - https://sun.iwu.edu/~mliffito/cs_codex/posts/web-development-basics/ (Links to an external site.)
