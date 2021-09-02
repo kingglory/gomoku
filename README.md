@@ -1,7 +1,7 @@
 ## Boyuan's GitHub Pages
 
 ### Info
-- 🧐Name: Boyuan Yang
+- :octocat: Name: Boyuan Yang
 - 📧Email: allenyby@udel.edu
 - Status: Junior
 - 👨‍🎓School: University of Delaware
@@ -14,6 +14,7 @@
 
 *Technologies need to Master*
 
+![Progress](https://wallhaven.cc/w/p8mey9)
 
 - **Basics of the Web** (HTML, CSS, JavaScript)
   - https://sun.iwu.edu/~mliffito/cs_codex/posts/web-development-basics/ (Links to an external site.)
