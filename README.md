@@ -1,7 +1,7 @@
 ## Boyuan's GitHub Pages
 ![GitHub Logo](/images/logo.png)
 ### Info
-- :octocat: Name: Boyuan Yang
+- 📛: Name: Boyuan Yang
 - 📧: allenyby@udel.edu
 - 👨‍🎓:🎓Status: Junior
 - 🏫School: University of Delaware
