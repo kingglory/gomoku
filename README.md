@@ -1,5 +1,7 @@
 ## Boyuan's GitHub Pages
-![GitHub Logo](/images/logo.png)
+
+CISC 275
+
 ### Info
 - 📛Name: Boyuan Yang
 - 📧Email: allenyby@udel.edu
@@ -14,7 +16,6 @@
 
 *Technologies need to Master*
 
-![GitHub Logo](https://www.google.com/url?sa=i&url=http%3A%2F%2Fshortformvideo.co.uk%2Fproduct%2Fprogress-bar-percentage%2F&psig=AOvVaw1v9GiEzWuMM_TnmnT8WOVD&ust=1630701601031000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCIiRqv-S4fICFQAAAAAdAAAAABAI)
 
 - **Basics of the Web** (HTML, CSS, JavaScript)
   - https://sun.iwu.edu/~mliffito/cs_codex/posts/web-development-basics/
