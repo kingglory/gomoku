@@ -18,29 +18,29 @@ CISC 275
 
 
 - **Basics of the Web** (HTML, CSS, JavaScript)
-  - https://sun.iwu.edu/~mliffito/cs_codex/posts/web-development-basics/
+  - (https://sun.iwu.edu/~mliffito/cs_codex/posts/web-development-basics/)
 - **Visual Studio Code**
-  - Good tutorial for installing VS Code, NodeJS, and TypeScript: https://neu-se.github.io/CS4530-CS5500-Spring-2021/tutorials/week1-getting-started
+  - Good tutorial for installing VS Code, NodeJS, and TypeScript: (https://neu-se.github.io/CS4530-CS5500-Spring-2021/tutorials/week1-getting-started)
 - **TypeScript**
-  - https://www.typescriptlang.org/docs/handbook/typescript-in-5-minutes.html
-  - Book: https://www.oreilly.com/library/view/programming-typescript/9781492037644/ 
+  - (https://www.typescriptlang.org/docs/handbook/typescript-in-5-minutes.html)
+  - Book: (https://www.oreilly.com/library/view/programming-typescript/9781492037644/)
 - **React** (+Hooks)
-  - https://reactjs.org/tutorial/tutorial.html
-  - https://reactjs.org/docs/hooks-intro.html
-  - Book: https://www.oreilly.com/library/view/learn-react-with/9781789610253/ 
+  - (https://reactjs.org/tutorial/tutorial.html)
+  - (https://reactjs.org/docs/hooks-intro.html)
+  - Book: (https://www.oreilly.com/library/view/learn-react-with/9781789610253/)
 - **Git**
-  - https://sun.iwu.edu/~mliffito/cs_codex/posts/how-to-start-using-git/ 
-  - https://sun.iwu.edu/~mliffito/cs_codex/posts/git-cookbook/ 
-  - https://sun.iwu.edu/~mliffito/cs_codex/posts/git-teamwork/
+  - (https://sun.iwu.edu/~mliffito/cs_codex/posts/how-to-start-using-git/)
+  - (https://sun.iwu.edu/~mliffito/cs_codex/posts/git-cookbook/) 
+  - (https://sun.iwu.edu/~mliffito/cs_codex/posts/git-teamwork/)
 - **Bootstrap**
-  - https://sun.iwu.edu/~mliffito/cs_codex/posts/bootstrap/
+  - (https://sun.iwu.edu/~mliffito/cs_codex/posts/bootstrap/)
 - **Requirements Gathering**
-  - https://sun.iwu.edu/~mliffito/cs_codex/posts/requirements-gathering/
+  - (https://sun.iwu.edu/~mliffito/cs_codex/posts/requirements-gathering/)
 - **User Interface Design**
-  - https://sun.iwu.edu/~mliffito/cs_codex/posts/user-interface-design/
+  - (https://sun.iwu.edu/~mliffito/cs_codex/posts/user-interface-design/)
 - **Deploying with GitHub Pages**
-  - React App: https://dev.to/yuribenjamin/how-to-deploy-react-app-in-github-pages-2a1f 
-  - Trivial Markdown: https://docs.github.com/en/pages/getting-started-with-github-pages/about-github-pages 
+  - React App: (https://dev.to/yuribenjamin/how-to-deploy-react-app-in-github-pages-2a1f) 
+  - Trivial Markdown: (https://docs.github.com/en/pages/getting-started-with-github-pages/about-github-pages) 
 - **Testing**
-  - Jest Tutorial: https://neu-se.github.io/CS4530-CS5500-Spring-2021/tutorials/week5-unit-testing
-  - Jest+React Tutorial: https://www.smashingmagazine.com/2020/06/practical-guide-testing-react-applications-jest/
+  - Jest Tutorial: (https://neu-se.github.io/CS4530-CS5500-Spring-2021/tutorials/week5-unit-testing)
+  - Jest+React Tutorial: (https://www.smashingmagazine.com/2020/06/practical-guide-testing-react-applications-jest/)
