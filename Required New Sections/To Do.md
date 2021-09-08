@@ -1,4 +1,4 @@
-- Portfolio Milestone 1
+## Portfolio Milestone 1
   - Sept. 2nd - 5th:
     - (1): create github
     - (2): learn how to publish the repository
@@ -10,6 +10,6 @@
     - (3): Started With Typescript
   
   
-- Portfolio Milestone 2
+## Portfolio Milestone 2
 
-- Portfolio Milestone 3
+## Portfolio Milestone 3
