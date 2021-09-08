@@ -26,7 +26,7 @@
   - [Study Link](https://neu-se.github.io/CS4530-CS5500-Spring-2021/tutorials/week1-getting-started)
 - [CSS]()  
   - [Source Code]()
-  - [Study Link]()
+  - [Study Link](https://htmldog.com/guides/css/)
 
 
 🚧under construction🚧
