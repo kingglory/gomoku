@@ -18,7 +18,7 @@
 - [HTML](https://boyuan1228.github.io/Knowledge%26Achievements/boyuanpages.html)
   - [Source Code](https://github.com/boyuan1228/boyuan1228.github.io/blob/main/Knowledge%26Achievements/boyuanpages.html)
   - [Study Link](https://htmldog.com/guides/html/)
-- [VScode]()
+- VScode
   - [Outcome]()
   - [Study Link]()
 - [CSS]()  
