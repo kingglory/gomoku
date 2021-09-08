@@ -20,7 +20,10 @@
   - [Study Link](https://htmldog.com/guides/html/)
 - VScode
   - [Outcome](https://github.com/boyuan1228/boyuan1228.github.io/blob/main/Knowledge%26Achievements/VScode.png)
-  - [Study Link]()
+      - Installing NodeJS
+      - Installing Visual Studio Code
+      - Hello, World in TypeScript
+  - [Study Link](https://neu-se.github.io/CS4530-CS5500-Spring-2021/tutorials/week1-getting-started)
 - [CSS]()  
   - [Source Code]()
   - [Study Link]()
