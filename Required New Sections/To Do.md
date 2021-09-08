@@ -2,12 +2,13 @@
   - Sept. 2nd - 5th:
     - (1): create github
     - (2): learn how to publish the repository
-    - (3): Hyperlinks
+    - (3): hyperlinks
     - (4): emoji
   - Sept. 6th - 9th:
-    - (1): VS code 
-    - (2): Installed NodeJS with NVM
-    - (3): Started With Typescript
+    - (1): read basics of the Web
+    - (2): VS code tutorial
+    - (3): installed NodeJS with NVM
+    - (4): read TypeScript tutorial.
   
   
 ## Portfolio Milestone 2
