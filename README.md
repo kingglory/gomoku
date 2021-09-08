@@ -4,7 +4,7 @@
 - [Change Log](https://github.com/boyuan1228/boyuan1228.github.io/blob/main/Required%20New%20Sections/Change%20Log)
 - [To Do](https://github.com/boyuan1228/boyuan1228.github.io/blob/main/Required%20New%20Sections/To%20Do)
 
-### Info
+## Info
 - 📛Name: Boyuan Yang
 - 📧Email: allenyby@udel.edu
 - 👨Status: Junior
@@ -14,4 +14,4 @@
 - 🖱️Repository: [Source Code](https://github.com/boyuan1228/boyuan1228.github.io/blob/main/README.md)
 
 
-### **Portfolio**
+## **Portfolio**
