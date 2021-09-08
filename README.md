@@ -1,8 +1,8 @@
 ## Boyuan's GitHub Pages
 
 - CISC 275
-- [Change Log](https://github.com/boyuan1228/boyuan1228.github.io/blob/main/Change%20Log)
-- [To Do](https://github.com/boyuan1228/boyuan1228.github.io/blob/main/To%20Do)
+- [Change Log](https://github.com/boyuan1228/boyuan1228.github.io/blob/main/Required%20New%20Sections/Change%20Log)
+- [To Do](https://github.com/boyuan1228/boyuan1228.github.io/blob/main/Required%20New%20Sections/To%20Do)
 
 ### Info
 - 📛Name: Boyuan Yang
