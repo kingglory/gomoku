@@ -8,7 +8,10 @@
     - (1): read basics of the Web
     - (2): VS code tutorial
     - (3): installed NodeJS with NVM
-    - (4): read TypeScript tutorial.
+    - (4): read TypeScript tutorial
+    - (5): start HTML Beginner Tutorial
+    - (6): finished HTML Beginner Tutorial
+    - (7): start CSS Beginner Tutorial
   
   
 ## Portfolio Milestone 2
