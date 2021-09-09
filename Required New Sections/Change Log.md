@@ -10,6 +10,8 @@
     - added html link on portfolio pages
   - Sept. 9th uploaded css file into github
     - fixed not worked url
+    - use git on VSCode
+    - added course link on VScode!!!!
 
 
 
