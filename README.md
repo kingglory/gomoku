@@ -16,13 +16,14 @@
 
 ## **Portfolio**
 - [HTML](https://boyuan1228.github.io/Knowledge%26Achievements/boyuanpages.html)
-  - [Source Code](https://github.com/boyuan1228/boyuan1228.github.io/blob/main/Knowledge%26Achievements/boyuanpages.html)
-  - [Study Link](https://htmldog.com/guides/html/)
+  - Beginner
+    - [Source Code](https://github.com/boyuan1228/boyuan1228.github.io/blob/main/Knowledge%26Achievements/boyuanpages.html)
+    - [Study Link](https://htmldog.com/guides/html/)
 - VScode
   - [Outcome](https://github.com/boyuan1228/boyuan1228.github.io/blob/main/Knowledge%26Achievements/VScode.png)
-      - Installing NodeJS
-      - Installing Visual Studio Code
-      - Hello, World in TypeScript
+    - Installing NodeJS
+    - Installing Visual Studio Code
+    - Hello, World in TypeScript
   - [Study Link](https://neu-se.github.io/CS4530-CS5500-Spring-2021/tutorials/week1-getting-started)
 - [CSS](https://boyuan1228.github.io/Knowledge%26Achievements/csspages.html) 
   - Beginner
