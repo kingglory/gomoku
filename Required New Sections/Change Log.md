@@ -8,6 +8,8 @@
   - Sept. 8th add info in change log and to-do list
     - uploaded html file
     - added html link on portfolio pages
+  - Sept. 9th uploaded css file into github
+    - fixed not worked url
 
 
 
