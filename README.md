@@ -24,7 +24,7 @@
       - Installing Visual Studio Code
       - Hello, World in TypeScript
   - [Study Link](https://neu-se.github.io/CS4530-CS5500-Spring-2021/tutorials/week1-getting-started)
-- [CSS]()  
+- [CSS](https://boyuan1228.github.io/Knowledge%26Achievements/csspages.html)  
   - [Source Code](https://github.com/boyuan1228/boyuan1228.github.io/blob/main/Knowledge%26Achievements/csspages.html)
   - [Study Link](https://htmldog.com/guides/css/)
 ### 🚧under construction🚧
