@@ -12,6 +12,9 @@
     - (5): start HTML Beginner Tutorial
     - (6): finished HTML Beginner Tutorial
     - (7): start CSS Beginner Tutorial
+    - (8): change log has been created
+    - (9): to do list has been created
+    - (10): plan learn javascript, react during the weekend
   
   
 ## Portfolio Milestone 2
