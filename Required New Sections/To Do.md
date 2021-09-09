@@ -15,5 +15,10 @@
   
   
 ## Portfolio Milestone 2
+ - Sept. 10th -16th
+   - HTML Intermediate Tutorial
+   - javascript
+   - typescript
+   - git
 
 ## Portfolio Milestone 3
