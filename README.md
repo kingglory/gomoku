@@ -35,7 +35,7 @@
 
 - JavaScript
   - [Source Code]()
-  - [Study Link]()
+  - [Study Link](https://htmldog.com/guides/javascript/)
 - TypeScript
   - [Source Code]()
   - [Study Link]()
