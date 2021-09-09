@@ -12,9 +12,9 @@
   - Sept. 9th uploaded [css](https://github.com/boyuan1228/boyuan1228.github.io/blob/main/Knowledge%26Achievements/csspages.html) file into github
     - added css [link](https://boyuan1228.github.io/Knowledge%26Achievements/csspages.html) to pages
     - fixed not worked url
-    - use git on [VSCode]
+    - use git on VSCode
     - added course link on VScode!!!!
-    - keep trying add things use VSCode
+    - keep trying add things use [VSCode](https://github.com/boyuan1228/boyuan1228.github.io/blob/main/Required%20New%20Sections/vscode.jpg)
 
 
 
