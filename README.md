@@ -10,7 +10,7 @@
 - 👨Status: Junior
 - 🏫School: University of Delaware
 - 💻GitHub: [MyGitHub](https://github.com/boyuan1228)
-- ⌨️Major: Computer Science, BS I am interested in [Artificial Intelligence and Robotics](https://www.cis.udel.edu/research/artificial-intelligence/)
+- ⌨️Major: Computer Science, BS, I am interesting in [Artificial Intelligence and Robotics](https://www.cis.udel.edu/research/artificial-intelligence/)
 - 🖱️Repository: [Source Code](https://github.com/boyuan1228/boyuan1228.github.io/blob/main/README.md)
 
 
@@ -29,9 +29,6 @@
     - [Source Code](https://github.com/boyuan1228/boyuan1228.github.io/blob/main/Knowledge%26Achievements/csspages.html)
     - [Study Link](https://htmldog.com/guides/css/)
 ### 🚧🚜👷Under Construction 👷🚜🚧
-  - Intermediate
-    - [Source Code]()
-    - [Study Link](https://htmldog.com/guides/html/intermediate/)
 
 - JavaScript
   - [Source Code]()
