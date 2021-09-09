@@ -27,6 +27,18 @@
 - [CSS]()  
   - [Source Code]()
   - [Study Link](https://htmldog.com/guides/css/)
+- JavaScript
+  - [Source Code]()
+  - [Study Link]()
+- TypeScript
+  - [Source Code]()
+  - [Study Link]()
+- React
+  - [Source Code]()
+  - [Study Link]()
+- Git
+  - [Source Code]()
+  - [Study Link]()
 
 
 🚧under construction🚧
