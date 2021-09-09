@@ -6,16 +6,18 @@
     - (3): hyperlinks
     - (4): emoji
   - Sept. 6th - 9th:
-    - (1): read basics of the Web
+    - (1): [read](https://sun.iwu.edu/~mliffito/cs_codex/posts/web-development-basics/) basics of the Web
     - (2): VS code tutorial
     - (3): installed NodeJS with NVM
-    - (4): read TypeScript tutorial
+    - (4): [read](https://www.typescriptlang.org/docs/handbook/typescript-in-5-minutes.html) TypeScript tutorial
     - (5): start HTML Beginner Tutorial
     - (6): finished HTML Beginner Tutorial
     - (7): start CSS Beginner Tutorial
     - (8): change log has been created
     - (9): to do list has been created
-    - (10): plan learn javascript, react during the weekend
+      - weekend plan:
+        - [learning](https://htmldog.com/guides/javascript/) and reading javascript
+        - [learning](https://reactjs.org/tutorial/tutorial.html) and [reading](https://www.oreilly.com/library/view/learn-react-with/9781789610253/) react
   
   
 ## Portfolio Milestone 2

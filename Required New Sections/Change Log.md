@@ -16,6 +16,8 @@
     - use git on VSCode
     - added course link on VScode!!!!
     - keep trying add things use [VSCode](https://github.com/boyuan1228/boyuan1228.github.io/blob/main/Required%20New%20Sections/vscode.jpg)
+    - fixed the go back [button](https://boyuan1228.github.io/)
+    - added hyper link in change log and to do list
 
 
 
