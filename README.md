@@ -35,11 +35,12 @@
 - JavaScript
   - [Source Code]()
   - [Study Link](https://htmldog.com/guides/javascript/)
-### 🚧🚜👷Under Construction 👷🚜🚧
-
 - TypeScript
   - [Source Code]()
   - [Study Link]()
+### 🚧🚜👷Under Construction 👷🚜🚧
+
+
 
 - Git
   - [Source Code]()
