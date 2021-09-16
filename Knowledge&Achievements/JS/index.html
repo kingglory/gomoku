@@ -1,21 +1,65 @@
 <!DOCTYPE html>
 <html>
-<body>
+    <head>
+        <meta charset="UTF-8">
+        <title>Calculator</title>
+    </head>
+    <style>
+        body{
+        border: 2px #00FFFF;    
+        }
+    </style>
+    <body  background="cat.png" style="background-repeat: no-repeat;margin-left: 10px;">
+        <p>
+            <h1>Magic Tools</h1>
+            <input type="text" id="a" width="50px" />
+            <select id="select">
+                <option value="+">+</option>
+                <option value="-">-</option>
+                <option value="*">*</option>
+                <option value="/">/</option>
+                <option value="%">/</option>
+                <option value="**">/</option>
+            </select>
+            <input type="text" id="b" width="50px"/>
+            <br />
+            <input type="button" value="compute" onclick="cal()" style="color: #FF0000;"/>
+            <input id="result"></input>
+        </p>
+    </body>
+    <script type="text/javascript">
+        function cal(){
+            var a = document.getElementById("a").value;
+            var b = document.getElementById("b").value;
+            var c = document.getElementById("select").value;
 
-<p>if y=5，compute x=y+2，show result.</p>
-<button onclick="myFunction()">click here</button>
+            a = parseFloat(a);
+            b = parseFloat(b);
+            switch(c){
+                case "+":
+                document.getElementById("result").value=parseInt(num1)+parseInt(num2);
+                break;
 
-<p id="demo"></p>
+                case "-":
+                document.getElementById("result").value=parseInt(num1)-parseInt(num2);
+                break;
 
-<script>
-function myFunction()
-{
-var y=5;
-var x=y+2;
-var demoP=document.getElementById("demo")
-demoP.innerHTML="x=" + x;
-}
-</script>
+                case "*":
+                document.getElementById("result").value=parseInt(num1)-parseInt(num2);
+                break;
 
-</body>
-</html>
+                case "/":
+                document.getElementById("result").value=parseInt(num1)/parseInt(num2);
+                break;
+
+                case "%":
+                document.getElementById("result").value=parseInt(num1)/parseInt(num2);
+                break;
+
+                case "**":
+                document.getElementById("result").value=parseInt(num1)/parseInt(num2);
+                break;
+            }
+        }
+    </script>
+    </html>
