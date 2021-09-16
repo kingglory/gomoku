@@ -2,16 +2,19 @@
 <html>
 <body>
 
+<p>if y=5，compute x=y+2，show result.</p>
+<button onclick="myFunction()">click here</button>
+
+<p id="demo"></p>
+
 <script>
-
-var x=2;
-var y=7;
-var z=5;
-var name = window.prompt(Name:);
-
-//var age, sex, brith, major;
-document.write(name + "LOVE");
-document.write(x + y + z);
+function myFunction()
+{
+var y=5;
+var x=y+2;
+var demoP=document.getElementById("demo")
+demoP.innerHTML="x=" + x;
+}
 </script>
 
 </body>
