@@ -19,7 +19,8 @@
     - fixed the go back [button](https://boyuan1228.github.io/)
     - added hyper link in change log and to do list
   - Sept. 14th installed the nodejs and react on labtop
-    - accidentally deleted html and css files, try to roll back
+    - accidentally deleted the css and html folder
+    - roll back to correct version
 
 
 ## October
