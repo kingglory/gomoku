@@ -6,24 +6,24 @@
     </head>
     <style>
         body{
-        border: 2px #00FFFF;    
+        border: 4px #00FFFF;    
         }
     </style>
     <body  background="cat.png" style="background-repeat: no-repeat;margin-left: 10px;">
         <p>
             <h1>Magic Tools</h1>
-            <input type="text" id="a" width="50px" />
+            <input type="text" id="a" width="100px" />
             <select id="select">
                 <option value="+">+</option>
                 <option value="-">-</option>
                 <option value="*">*</option>
                 <option value="/">/</option>
-                <option value="%">/</option>
-                <option value="**">/</option>
+                <option value="%">%</option>
+                <option value="**">^</option>
             </select>
-            <input type="text" id="b" width="50px"/>
+            <input type="text" id="b" width="100px"/>
             <br />
-            <input type="button" value="compute" onclick="cal()" style="color: #FF0000;"/>
+            <input type="button" value="GO" onclick="cal()" style="color: red;"/>
             <input id="result"></input>
         </p>
     </body>
@@ -37,27 +37,27 @@
             b = parseFloat(b);
             switch(c){
                 case "+":
-                document.getElementById("result").value=parseInt(num1)+parseInt(num2);
+                document.getElementById("result").value=parseInt(a)+parseInt(b);
                 break;
 
                 case "-":
-                document.getElementById("result").value=parseInt(num1)-parseInt(num2);
+                document.getElementById("result").value=parseInt(a)-parseInt(b);
                 break;
 
                 case "*":
-                document.getElementById("result").value=parseInt(num1)-parseInt(num2);
+                document.getElementById("result").value=parseInt(a)-parseInt(b);
                 break;
 
                 case "/":
-                document.getElementById("result").value=parseInt(num1)/parseInt(num2);
+                document.getElementById("result").value=parseInt(a)/parseInt(num2);
                 break;
 
                 case "%":
-                document.getElementById("result").value=parseInt(num1)/parseInt(num2);
+                document.getElementById("result").value=parseInt(a)%parseInt(b);
                 break;
 
                 case "**":
-                document.getElementById("result").value=parseInt(num1)/parseInt(num2);
+                document.getElementById("result").value=parseInt(a)**parseInt(b);
                 break;
             }
         }
