@@ -35,12 +35,11 @@
 - [JavaScript](https://boyuan1228.github.io/Knowledge%26Achievements/JS/index.html)
   - [Source Code](https://github.com/boyuan1228/boyuan1228.github.io/blob/main/Knowledge%26Achievements/JS/index.html)
   - [Study Link](https://htmldog.com/guides/javascript/)
+### 🚧🚜👷Under Construction 👷🚜🚧
+
 - TypeScript
   - [Source Code]()
   - [Study Link]()
-### 🚧🚜👷Under Construction 👷🚜🚧
-
-
 
 - Git
   - [Source Code]()
