@@ -11,7 +11,7 @@
 - 🏫School: University of Delaware
 - 💻GitHub: [MyGitHub](https://github.com/boyuan1228)
 - ⌨️Major: Computer Science, BS, I am interesting in [Artificial Intelligence and Robotics](https://www.cis.udel.edu/research/artificial-intelligence/)
-- 🖱️Repository: [Source Code](https://github.com/boyuan1228/boyuan1228.github.io/blob/main/README.md)
+- 🖱️Repository: [Homepage](https://github.com/boyuan1228/boyuan1228.github.io/blob/main/README.md)
 
 
 ## **Portfolio**
