@@ -20,6 +20,7 @@
     - added hyper link in change log and to do list
   - Sept. 14th installed the nodejs and react on labtop
     - accidentally rease the css and html folder
+    - roll back to correct version
 
 
 ## October
