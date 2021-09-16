@@ -21,6 +21,6 @@
   - Sept. 14th installed the nodejs and react on labtop
     - accidentally deleted the css and html folder
     - roll back to correct version
-
+  - Sept. 15th change the to do list priority, js and git have high priority than typescript and HTML
 
 ## October
