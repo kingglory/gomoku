@@ -22,5 +22,6 @@
     - accidentally deleted the css and html folder
     - roll back to correct version
   - Sept. 15th change the to do list priority, js and git have high priority than typescript and HTML
+    - learned how to ask [user input](https://youtu.be/15oNAHVuwIE?t=144) on js
 
 ## October
