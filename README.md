@@ -36,8 +36,8 @@
 - [JavaScript](https://boyuan1228.github.io/Achievements/JS/index.html)
   - [Source Code](https://github.com/boyuan1228/boyuan1228.github.io/blob/main/Achievements/JS/index.html)
   - [Study Link](https://htmldog.com/guides/javascript/)
-- [TypeScript](https://github.com/boyuan1228/boyuan1228.github.io/blob/main/Achievements/TypeS/index.ts)
-  - [Source Code](https://github.com/boyuan1228/boyuan1228.github.io/blob/main/Achievements/TypeS/TS.ts)
+- TypeScript
+  - [Source Code](https://github.com/boyuan1228/boyuan1228.github.io/blob/main/Achievements/TypeS/index.ts)
   - [Study Link](https://www.typescriptlang.org/docs/handbook/typescript-in-5-minutes.html)
 - Git
   - [Study Link](https://www.atlassian.com/git/tutorials/git-bash)
