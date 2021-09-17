@@ -34,6 +34,7 @@
     - update new language, [TS](https://github.com/boyuan1228/boyuan1228.github.io/blob/main/Achievements/TypeS/index.ts)
     - update readme
     - finally upload the react template and typescript files(no rushing!!!!)
+    - !!! [new repo](github.com/boyuan1228/react_app_boyuan.github.io) for REACT !!!
 
 
 ## October

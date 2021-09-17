@@ -28,5 +28,6 @@
    - git !!!
    - study react untill end of porfolio, plaing study each weekend for 2 hrs and 1 hr for coding
    - study javascrpit also on weekend for 1 hr and 30 mins for coding
+   - make new repo instead of use branch
    
 ## Portfolio Milestone 3
