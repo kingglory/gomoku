@@ -30,7 +30,7 @@
     - master how to use git bash push and pull the folder
     - ssh key does not work, figure that out by myself, fixed the [ssh key](git@github.com:boyuan1228/boyuan1228.github.io.git)
     - remove the react folder on master branch, pull the lastest version(7f3f341268a8aebdf534887961a902c0f4f5bde9)
-    - installed npm and git all the react files at new branch [master](https://github.com/boyuan1228/boyuan1228.github.io/tree/master) and [screenshot](https://boyuan1228.github.io/Knowledge%26Achievements/gitbash.png)
+    - installed npm and git all the react files at new branch [master](https://github.com/boyuan1228/boyuan1228.github.io/tree/master) and [screenshot](https://boyuan1228.github.io/Achievements/gitbash.png)
     - update new language, [TS](https://github.com/boyuan1228/boyuan1228.github.io/blob/main/Achievements/TypeS/index.ts)
     - update readme
     - finally upload the react template and typescript files(no rushing!!!!)
