@@ -24,5 +24,12 @@
   - Sept. 15th change the to do list priority, js and git have high priority than typescript and HTML
     - learned how to ask [user input](https://youtu.be/15oNAHVuwIE?t=144) on js
     - accumulated much [reference](https://www.w3schools.com/jsref/)
+    - update todolist
+    - failed upload the react folder, since the git bash not working, finally i used [link](https://www.cloudbees.com/blog/remote-origin-already-exists-error)
+    - I am trying put react on main, not master branch
+    - master how to use git bash push and pull the folder
+    - ssh key does not work, figure that out by myself, fixed the [ssh key](git@github.com:boyuan1228/boyuan1228.github.io.git)
+    - remove the react folder on master branch, pull the lastest version(7f3f341268a8aebdf534887961a902c0f4f5bde9)
+    - installed npm
 
 ## October

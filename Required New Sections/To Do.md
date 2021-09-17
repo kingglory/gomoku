@@ -22,9 +22,11 @@
   
 ## Portfolio Milestone 2
  - Sept. 10th -16th
-   - HTML Intermediate Tutorial
+   - ~~HTML Intermediate Tutorial~~
    - javascript !!!
    - typescript 
    - git !!!
-
+   - study react untill end of porfolio, plaing study each weekend for 2 hrs and 1 hr for coding
+   - study javascrpit also on weekend for 1 hr and 30 mins for coding
+   
 ## Portfolio Milestone 3
