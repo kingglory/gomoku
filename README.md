@@ -38,13 +38,11 @@
 - [TypeScript](https://github.com/boyuan1228/boyuan1228.github.io/blob/main/Achievements/TypeS/index.ts)
   - [Source Code](https://github.com/boyuan1228/boyuan1228.github.io/blob/main/Knowledge%26Achievements/TypeS/TS.ts)
   - [Study Link](https://www.typescriptlang.org/docs/handbook/typescript-in-5-minutes.html)
+- Git
+  - [Study Link](https://www.atlassian.com/git/tutorials/git-bash)
 ### 🚧🚜👷Under Construction 👷🚜🚧
 
 
-
-- Git
-  - [Source Code]()
-  - [Study Link]()
 
 
 
