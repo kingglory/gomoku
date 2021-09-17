@@ -33,6 +33,7 @@
     - installed npm and git all the react files at new branch [master](https://github.com/boyuan1228/boyuan1228.github.io/tree/master) and [screenshot](https://boyuan1228.github.io/Knowledge%26Achievements/gitbash.png)
     - update new language, [TS](https://github.com/boyuan1228/boyuan1228.github.io/blob/main/Achievements/TypeS/index.ts)
     - update readme
+    - finally upload the react template and typescript files(no rushing!!!!)
 
 
 ## October
