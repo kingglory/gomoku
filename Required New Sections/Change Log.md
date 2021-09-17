@@ -9,9 +9,9 @@
   - Sept. 7th create a empty [change log](https://github.com/boyuan1228/boyuan1228.github.io/blob/main/Required%20New%20Sections/Change%20Log.md); [to-do list](https://github.com/boyuan1228/boyuan1228.github.io/blob/main/Required%20New%20Sections/To%20Do.md); organized portfolio
   - Sept. 8th add info in change log and to-do list
     - uploaded [html](https://github.com/boyuan1228/boyuan1228.github.io/blob/main/Required%20New%20Sections/To%20Do.md) file
-    - added html [link](https://boyuan1228.github.io/Knowledge%26Achievements/boyuanpages.html) on portfolio pages
-  - Sept. 9th uploaded [css](https://github.com/boyuan1228/boyuan1228.github.io/blob/main/Knowledge%26Achievements/csspages.html) file into github
-    - added css [link](https://boyuan1228.github.io/Knowledge%26Achievements/csspages.html) to pages
+    - added html [link](https://boyuan1228.github.io/Achievements/boyuanpages.html) on portfolio pages
+  - Sept. 9th uploaded [css](https://github.com/boyuan1228/boyuan1228.github.io/blob/main/Achievements/csspages.html) file into github
+    - added css [link](https://boyuan1228.github.io/Achievements/csspages.html) to pages
     - fixed not worked url
     - use git on VSCode
     - added course link on VScode!!!!
@@ -34,7 +34,7 @@
     - update new language, [TS](https://github.com/boyuan1228/boyuan1228.github.io/blob/main/Achievements/TypeS/index.ts)
     - update readme
     - finally upload the react template and typescript files(no rushing!!!!)
-    - !!! [new repo](github.com/boyuan1228/react_app_boyuan.github.io) for REACT !!! 
+    - !!! [new repo](https://github.com/boyuan1228/react_app_boyuan.github.io) for REACT !!! 
 
 
 ## October
