@@ -31,7 +31,7 @@
    - study react untill end of porfolio, plaing study each weekend for 2 hrs and 1 hr for coding
    - study javascrpit also on weekend for 1 hr and 30 mins for coding
    - make new repo instead of use branch 
--Things done
+- Things done
   *see all the hyperlink in [change log](https://github.com/boyuan1228/boyuan1228.github.io/blob/main/Required%20New%20Sections/Change%20Log.md)
 <ol>
 <li>Upload React folder on new repo, have an idea of a APP, outcome will show in Milesone 3</li>
