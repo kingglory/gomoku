@@ -3,7 +3,7 @@
 - [CISC 275](https://catalog.udel.edu/preview_course_nopop.php?catoid=47&coid=273278) INTRODUCTION TO SOFTWARE ENGINEERING
 - [Change Log](https://github.com/boyuan1228/boyuan1228.github.io/blob/main/Required%20New%20Sections/Change%20Log.md)
 - [To Do](https://github.com/boyuan1228/boyuan1228.github.io/blob/main/Required%20New%20Sections/To%20Do.md)
-- [New Repository](https://github.com/boyuan1228/react_app_boyuan.github.io) to be continued
+- [New Repository](https://github.com/boyuan1228/react_app_boyuan.github.io) to be continued!!!
 
 ## Info
 - 📛Name: Boyuan Yang
