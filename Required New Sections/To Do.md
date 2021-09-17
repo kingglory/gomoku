@@ -33,6 +33,7 @@
    - make new repo instead of use branch
    - will have new plan on Sept. 17th 
 ## Things done
+- see all the hyperlink in [change log](https://github.com/boyuan1228/boyuan1228.github.io/blob/main/Required%20New%20Sections/Change%20Log.md)
 <ol>
 <li>Upload React folder on new repo, have an idea of a APP, outcome will show in Milesone 3</li>
 <li>Learned how to use git bash to upload local folder and file</li>
@@ -41,6 +42,5 @@
 <li>Comfortable use VSCode write Portfolio</li>
 <li>Rewiew what I learned in Milesome 1, and help two classmates</li>
 </ol>
-- *see all the hyperlink in [change log](https://github.com/boyuan1228/boyuan1228.github.io/blob/main/Required%20New%20Sections/Change%20Log.md)
-   
+
 ## Portfolio Milestone 3
