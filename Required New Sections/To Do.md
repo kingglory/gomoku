@@ -18,16 +18,7 @@
       - weekend plan:
         - [learning](https://htmldog.com/guides/javascript/) and reading javascript
         - [learning](https://reactjs.org/tutorial/tutorial.html) and [reading](https://www.oreilly.com/library/view/learn-react-with/9781789610253/) react
-  ###Done for Milestone 2###
-  *see all the hyperlink in [change log](https://github.com/boyuan1228/boyuan1228.github.io/blob/main/Required%20New%20Sections/Change%20Log.md)
-<ol>
-<li>Upload React folder on new repo, have an idea of a APP, outcome will show in Milesone 3</li>
-<li>Learned how to use git bash to upload local folder and file</li>
-<li>Start small program for TypeScript</li>
-<li>Finish a tool by using the JavaScript</li>
-<li>Comfortable use VSCode write Portfolio</li>
-<li>Rewiew what I learned in Milesome 1, and help two classmates</li>
-</ol>
+
 
   
   
@@ -40,5 +31,15 @@
    - study react untill end of porfolio, plaing study each weekend for 2 hrs and 1 hr for coding
    - study javascrpit also on weekend for 1 hr and 30 mins for coding
    - make new repo instead of use branch 
+-Things done
+  *see all the hyperlink in [change log](https://github.com/boyuan1228/boyuan1228.github.io/blob/main/Required%20New%20Sections/Change%20Log.md)
+<ol>
+<li>Upload React folder on new repo, have an idea of a APP, outcome will show in Milesone 3</li>
+<li>Learned how to use git bash to upload local folder and file</li>
+<li>Start small program for TypeScript</li>
+<li>Finish a tool by using the JavaScript</li>
+<li>Comfortable use VSCode write Portfolio</li>
+<li>Rewiew what I learned in Milesome 1, and help two classmates</li>
+</ol>
    
 ## Portfolio Milestone 3
