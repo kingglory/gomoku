@@ -7,7 +7,7 @@
 
 #### Mini Project
 - [My web](https://boyuan1228.github.io/Achievements/csspages.html)
-- [Magic Tools](Calculator)(https://boyuan1228.github.io/Achievements/JS/index.html)
+- [Magic Tools](https://boyuan1228.github.io/Achievements/JS/index.html) *Calculator*
 - APP
 - A combined project by using HTML, CSS, TS/JS.
 
