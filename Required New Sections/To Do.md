@@ -51,3 +51,4 @@
   - Get done REACT project, try to use html, css, JS, and TS write a mini project, by Thursday
   - Organized whole thing by each day
   - install the extension: prettier & live server!
+  - created new file for [note](- [Note](https://github.com/boyuan1228/boyuan1228.github.io/blob/main/Required%20New%20Sections/Note.md))
