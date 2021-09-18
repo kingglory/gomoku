@@ -1,4 +1,6 @@
-# Quick Links
+# Boyuan's Page
+
+## Quick Links
 
 - [CISC 275](https://catalog.udel.edu/preview_course_nopop.php?catoid=47&coid=273278) INTRODUCTION TO SOFTWARE ENGINEERING
 - [Change Log](https://github.com/boyuan1228/boyuan1228.github.io/blob/main/Required%20New%20Sections/Change%20Log.md)
