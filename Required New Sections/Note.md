@@ -50,6 +50,8 @@ margin: 10px;
 }
 
 
+conclusion: In the milestone 1 I have no clear idea about html and css can use "<linl rel ="stylesheet" href="styles.css">", like a hyperlink to html file, and also, I learned it can split one signle  html file, to two files, .css and .html, after watched the videos, and I also update the in repo, floder called htmlWcss. [.html](https://github.com/boyuan1228/boyuan1228.github.io/blob/main/Achievements/htmlWcss/index.html), [.css](https://github.com/boyuan1228/boyuan1228.github.io/blob/main/Achievements/htmlWcss/style.css)
+
 
 
 
