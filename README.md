@@ -10,8 +10,8 @@
   - [My web](https://boyuan1228.github.io/Achievements/csspages.html)
   - [Magic Tools](https://boyuan1228.github.io/Achievements/JS/index.html) *a Calculator*
 - To do
-- APP(react)
-- A combined project by using HTML, CSS, TS/JS.
+  - APP(react)
+  - A combined project by using HTML, CSS, TS/JS.
 
 ## PI
 - 📛Name: Boyuan Yang
