@@ -21,38 +21,31 @@
 - 🖱️Repository: [Homepage](https://github.com/boyuan1228/boyuan1228.github.io/blob/main/README.md)
 
 
-## Portfolio
-- *web design*
-- [HTML](https://boyuan1228.github.io/Achievements/boyuanpages.html)
+## Portfolio 
+- [HTML](https://boyuan1228.github.io/Achievements/boyuanpages.html) <br> *web design*
   - Beginner
     - [Source Code](https://github.com/boyuan1228/boyuan1228.github.io/blob/main/Achievements/boyuanpages.html)
     - [Study Link](https://htmldog.com/guides/html/)
-- VScode
-- *update to github*
+- VScode <br> *update to github*
   - [Outcome](https://github.com/boyuan1228/boyuan1228.github.io/blob/main/Achievements/VScode.png)
     - Installing NodeJS
     - Installing Visual Studio Code
     - Hello, World in TypeScript
   - [Study Link](https://neu-se.github.io/CS4530-CS5500-Spring-2021/tutorials/week1-getting-started)
-- [CSS](https://boyuan1228.github.io/Achievements/csspages.html)
-- *for web style*
+- [CSS](https://boyuan1228.github.io/Achievements/csspages.html) <br> *for web style*
   - Beginner
     - [Source Code](https://github.com/boyuan1228/boyuan1228.github.io/blob/main/Achievements/csspages.html)
     - [Study Link](https://htmldog.com/guides/css/)
-- React
-- *advanced app, JavaScript library*
+- React <br>*advanced app, JavaScript library*
   - [Source Code](https://github.com/boyuan1228/boyuan1228.github.io/tree/main/ta-trainer-010)
   - [Study Link](https://reactjs.org/tutorial/tutorial.html)
-- [JavaScript](https://boyuan1228.github.io/Achievements/JS/index.html)
-- *JavaScript is TypeScript*
+- [JavaScript](https://boyuan1228.github.io/Achievements/JS/index.html) <br> *JavaScript is TypeScript*
   - [Source Code](https://github.com/boyuan1228/boyuan1228.github.io/blob/main/Achievements/JS/index.html)
   - [Study Link](https://htmldog.com/guides/javascript/)
-- TypeScript
-- *language convert to JS*
+- TypeScript <br> *language convert to JS*
   - [Source Code](https://github.com/boyuan1228/boyuan1228.github.io/blob/main/Achievements/TypeS/index.ts)
   - [Study Link](https://www.typescriptlang.org/docs/handbook/typescript-in-5-minutes.html)
-- Git
-- *tool for github*
+- Git <br>*tool for github*
   - [Cheat Sheet]()
   - [Study Link](https://www.atlassian.com/git/tutorials/git-bash)
 
