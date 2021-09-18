@@ -7,14 +7,6 @@
 
 - ~~[New Repository](https://github.com/boyuan1228/react_app_boyuan.github.io) to be continued!!!~~
 
-#### Mini Project
-- Done
-  - [My web](https://boyuan1228.github.io/Achievements/csspages.html)
-  - [Magic Tools](https://boyuan1228.github.io/Achievements/JS/index.html) *a Calculator*
-- To do
-  - APP(react)
-  - A combined project by using HTML, CSS, TS/JS.
-
 ## PI
 - 📛Name: Boyuan Yang
 - 📧Email: allenyby@udel.edu
@@ -23,6 +15,15 @@
 - 💻GitHub: [MyGitHub](https://github.com/boyuan1228)
 - ⌨️Major: Computer Science, BS, interesting in [Artificial Intelligence and Robotics](https://www.cis.udel.edu/research/artificial-intelligence/)
 - 🖱️Repository: [Homepage](https://github.com/boyuan1228/boyuan1228.github.io/blob/main/README.md)
+
+#### Mini Project
+- Done
+  - [My web](https://boyuan1228.github.io/Achievements/csspages.html)
+  - [Magic Tools](https://boyuan1228.github.io/Achievements/JS/index.html) *a Calculator*
+- To do
+  - APP(react)
+  - A combined project by using HTML, CSS, TS/JS.
+
 
 
 ## Portfolio 
@@ -59,7 +60,6 @@
 - [TypeScript](https://www.bilibili.com/video/BV1Xi4y1w7Ve)
 - [JavaScript](https://www.bilibili.com/video/BV13b411H7LR)
 - [React](https://www.bilibili.com/video/BV1Sb411P79t)
-- 
 
 
 

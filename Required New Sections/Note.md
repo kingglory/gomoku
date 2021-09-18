@@ -75,19 +75,25 @@ conclusion: In the milestone 1 I have no clear idea about html and css can use "
 
 
 
+
+
 # JS
+- 
 
 
 
 # TS
+- 
 
 
 
 # HTML
+- 
 
 
 
 # REACT
+- 
 
 
 
