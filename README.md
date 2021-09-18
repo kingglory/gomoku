@@ -34,10 +34,11 @@
     - Installing Visual Studio Code
     - Hello, World in TypeScript
   - [Study Link](https://neu-se.github.io/CS4530-CS5500-Spring-2021/tutorials/week1-getting-started)
-- [CSS](https://boyuan1228.github.io/Achievements/csspages.html) <br> *for web style*
+- [CSS](https://boyuan1228.github.io/Achievements/htmlWcss/index.html) <br> *for web style*
   - Beginner
-    - [Source Code](https://github.com/boyuan1228/boyuan1228.github.io/blob/main/Achievements/csspages.html)
-    - [Study Link](https://htmldog.com/guides/css/)
+    - [Source Code](https://github.com/boyuan1228/boyuan1228.github.io/blob/main/Achievements/htmlWcss/style.css)
+    - [Study Link 1](https://htmldog.com/guides/css/)
+    - [Study Link 2](https://www.bilibili.com/video/BV1rK4y1W7XZ?p=3&spm_id_from=pageDriver)
 - React <br>*advanced app, JavaScript library*
   - [Source Code](https://github.com/boyuan1228/boyuan1228.github.io/tree/main/ta-trainer-010)
   - [Study Link](https://reactjs.org/tutorial/tutorial.html)
