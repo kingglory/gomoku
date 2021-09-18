@@ -1,0 +1,70 @@
+
+    p {
+        color: green;
+    }
+
+    a {
+        color: red;
+    }
+
+
+body {
+    font-size: 30px;
+    color: gold;
+}
+
+h1 {
+    color: cyan;
+    background-color: brown;
+}
+
+h2 {
+    color: cyan;
+    background-color: brown;
+}
+
+body {
+    font-family: arial, helvetica, sans-serif;
+    font-size: 20px;
+}
+
+h1 {
+    font-size: 4em;
+}
+
+h2 {
+    font-size: 3em;
+}
+
+a {
+    text-decoration: underline;
+}
+
+strong {
+    font-style: italic;
+    text-transform: uppercase;
+}
+
+
+
+h3 {
+    font-size: 1.5em;
+    background-color: #ccc;
+    margin: 10px;
+    padding: 20px;
+}
+
+
+
+h1 {
+    border-style: dashed;
+    border-width: 3px;
+    border-left-width: 10px;
+    border-right-width: 10px;
+    border-color: red;
+}
+
+
+body {
+    background: black url(http://www.htmldog.com/images/bg.gif) no-repeat top right;
+}

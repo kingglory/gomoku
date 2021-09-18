@@ -49,4 +49,5 @@
   - Review git from CISC 210 for 2 days, learn about SVN
   - Enhanced the Milestone 1&2 project, html, css, JS, and TS, by Tuesday
   - Get done REACT project, try to use html, css, JS, and TS write a mini project, by Thursday
-  - Organized whole thing by each day!
+  - Organized whole thing by each day
+  - install the extension: prettier & live server!

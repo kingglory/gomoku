@@ -51,6 +51,13 @@
   - [Cheat Sheet]()
   - [Study Link](https://www.atlassian.com/git/tutorials/git-bash)
 
+### Other resources <br> for additional help
+- [css](https://www.bilibili.com/video/BV1rK4y1W7XZ)
+- [TypeScript](https://www.bilibili.com/video/BV1Xi4y1w7Ve)
+- [JavaScript](https://www.bilibili.com/video/BV13b411H7LR)
+- [React](https://www.bilibili.com/video/BV1Sb411P79t)
+- 
+
 
 
 
