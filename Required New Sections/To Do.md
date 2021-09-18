@@ -44,3 +44,9 @@
 </ol>
 
 ## Portfolio Milestone 3
+- Sept. 17th -23th
+  -Have plan on todo list for Milestone 3
+  - Review git from CISC 210 for 2 days, learn about SVN
+  - Enhanced the Milestone 1&2 project, html, css, JS, and TS, by Tuesday
+  - Get done REACT project, try to use html, css, JS, and TS write a mini project, by Thursday
+  - Organized whole thing by each day!

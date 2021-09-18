@@ -36,6 +36,10 @@
     - finally upload the react template and typescript files(no rushing!!!!)
     - !!! [new repo](https://github.com/boyuan1228/react_app_boyuan.github.io) for REACT !!! 
     - update todo list before submit, and double check all hyperlinks
+  - Sept. 17th
+    - plan on todo list for Milestone 3
+  - Sept. 18th
+    - study git, added git cheat sheet, and some info about SVN
 
 
 ## October
