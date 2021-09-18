@@ -6,9 +6,11 @@
 - ~~[New Repository](https://github.com/boyuan1228/react_app_boyuan.github.io) to be continued!!!~~
 
 #### Mini Project
-- [My web](https://boyuan1228.github.io/Achievements/csspages.html)
-- [Magic Tools](https://boyuan1228.github.io/Achievements/JS/index.html) *a Calculator*
-- APP
+- Done
+  - [My web](https://boyuan1228.github.io/Achievements/csspages.html)
+  - [Magic Tools](https://boyuan1228.github.io/Achievements/JS/index.html) *a Calculator*
+- To do
+- APP(react)
 - A combined project by using HTML, CSS, TS/JS.
 
 ## PI
