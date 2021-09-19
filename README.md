@@ -17,13 +17,13 @@
 - ⌨️Major: Computer Science, BS, interesting in [Artificial Intelligence and Robotics](https://www.cis.udel.edu/research/artificial-intelligence/)
 - 🖱️Repository: [Homepage](https://github.com/boyuan1228/boyuan1228.github.io/blob/main/README.md)
 
-#### Mini Project
+## Mini Project
 
 - Done
   - [My web](https://boyuan1228.github.io/Achievements/csspages.html)
   - [Magic Tools](https://boyuan1228.github.io/Achievements/JS/index.html) _a Calculator_
 - To do
-  - Tic-Tac-Toe(react)(Source Code)[https://github.com/boyuan1228/boyuan1228.github.io/tree/main/app]
+  - Tic-Tac-Toe(react)[Source Code](https://github.com/boyuan1228/boyuan1228.github.io/tree/main/app)
   - A combined project by using HTML, CSS, TS/JS.
 
 ## Portfolio
