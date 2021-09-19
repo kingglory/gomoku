@@ -23,8 +23,8 @@
   - [My web](https://boyuan1228.github.io/Achievements/csspages.html)
   - [Magic Tools](https://boyuan1228.github.io/Achievements/JS/index.html) _a Calculator_
 - To do
-  - Tic-Tac-Toe(react)[Source Code](https://github.com/boyuan1228/boyuan1228.github.io/tree/main/app)
-  - A combined project by using HTML, CSS, TS/JS.
+  - [Tic-Tac-Toe](https://en.wikipedia.org/wiki/Tic-tac-toe)(react)[Source Code](https://github.com/boyuan1228/boyuan1228.github.io/tree/main/app)
+  - A combined project by using HTML, CSS, TS/JS, etc...s
 
 ## Portfolio
 

@@ -1,6 +1,10 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
 import './index.css';
+
+
+
+
 class Square extends React.Component {
     render() {
         return (
@@ -17,26 +21,31 @@ class Square extends React.Component {
     }
   
     render() {
-      const status = 'Next player: X';
+      const status = 'Next player: ';
   
       return (
         <div>
-          <div className="status">{status}</div>
+          <div className="status">{status}
+          </div>
+
           <div className="board-row">
             {this.renderSquare(1)}
             {this.renderSquare(2)}
             {this.renderSquare(3)}
           </div>
+
           <div className="board-row">
             {this.renderSquare(4)}
             {this.renderSquare(5)}
             {this.renderSquare(6)}
           </div>
+
           <div className="board-row">
             {this.renderSquare(7)}
             {this.renderSquare(8)}
             {this.renderSquare(9)}
           </div>
+
         </div>
       );
     }
@@ -58,7 +67,6 @@ class Square extends React.Component {
     }
   }
   
-  // ========================================
   
   ReactDOM.render(
     <Game />,
