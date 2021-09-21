@@ -1,8 +1,6 @@
 index.css body {
-  font: italic 1.2em "Fira Sans", serif;
-  margin: 0px;
-  align-items: center;
-  justify-content: center;
+  font: 14px "Century Gothic", Futura, sans-serif;
+  margin: 20px;
 }
 
 ol,
@@ -11,8 +9,6 @@ ul {
 }
 
 .board-row:after {
-  align-items: center;
-  justify-content: center;
   clear: both;
   content: " ";
   display: table;
@@ -35,7 +31,7 @@ ul {
 
   justify-content: center;
 
-  background: grey;
+  background: yellow;
   border: 1px solid red;
   float: 1px;
 
@@ -59,7 +55,7 @@ ul {
 }
 
 .kbd-navigation .square:focus {
-  background: rgb(221, 221, 221);
+  background: green;
 }
 
 .game {
