@@ -53,7 +53,8 @@
   - [Source Code](https://github.com/boyuan1228/boyuan1228.github.io/blob/main/Achievements/TypeS/index.ts)
   - [Study Link](https://www.typescriptlang.org/docs/handbook/typescript-in-5-minutes.html)
 - Git <br>_tool for github_
-  - [Cheat Sheet](https://about.gitlab.com/images/press/git-cheat-sheet.pdf)
+  - [Cheat Sheet 1](https://about.gitlab.com/images/press/git-cheat-sheet.pdf)
+  - [Cheat Sheet 2](https://confluence.atlassian.com/bitbucketserver/basic-git-commands-776639767.html)
   - [Study Link](https://www.atlassian.com/git/tutorials/git-bash)
 
 ### Other resources <br> for additional help
