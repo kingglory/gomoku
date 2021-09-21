@@ -5,7 +5,7 @@ body {
   }
   
   ol, ul {
-    padding-left: 300px;
+    padding-left: 50px;
   }
   
   .board-row:after {
@@ -21,7 +21,7 @@ body {
   
   .square {
     background: yellow;
-    border: 1px solid red;
+    border: 0.5px solid red;
 
     float: left;
 
@@ -47,7 +47,8 @@ body {
   }
   
   .kbd-navigation .square:focus {
-    background: #ddd;
+    /* "X"*/
+    background: rgb(9, 12, 214);
   }
   
   .game {

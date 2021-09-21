@@ -4,24 +4,28 @@ import './index.css';
 class Square extends React.Component {
 // state realized interactive functions
 // Add a construction method to the Square component
-  constructor(props) {
-    super(props);
-    this.state = {
-        value: null,
-    };
+
+
+constructor(props) {
+  super(props);
+  this.state = {
+      squares: Array(9).fill(null),
+      /* boolean */
+      iXNext:true,
+  };
 }
+
 
 render() {
   return (
-    <button className="square" onClick={() => {
-        this.setState({
-            value: 'X'
-        })
-    }}>
-      {this.state.value}
-    </button>
+      <button className="square"
+          onClick={() => this.props.onClick()}
+      >
+          {this.props.value}
+      </button>
   );
 }
+
 
 
 
@@ -35,6 +39,15 @@ render() {
       };
   }
 
+  handleClick(i) {
+    const squares = this.state.squares.slice();
+    squares[i] = this.state.iXNext ? 'O' : 'X';
+    this.setState({
+        squares: squares,
+        iXNext: !this.state.iXNext, // reverse
+    });
+}
+
 
   renderSquare(i) {
     return <Square
@@ -42,6 +55,7 @@ render() {
         onClick={() => this.handleClick(i)}
     />;
 }
+
 
   
     render() {
