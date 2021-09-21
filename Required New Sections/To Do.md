@@ -52,3 +52,5 @@
   - Organized whole thing by each day
   - install the extension: prettier & live server!
   - created [Note](https://github.com/boyuan1228/boyuan1228.github.io/blob/main/Required%20New%20Sections/Note.md)
+  - finished Tic-Tac-Toe
+  - try to make a Gomoku

@@ -22,9 +22,10 @@
 - Done
   - [My web](https://boyuan1228.github.io/Achievements/boyuanpages.html)
   - [Magic Tools](https://boyuan1228.github.io/Achievements/JS/index.html) _a Calculator_
+  - [Tic-Tac-Toe](https://en.wikipedia.org/wiki/Tic-tac-toe)(react)[Source Code](https://github.com/boyuan1228/boyuan1228.github.io/tree/main/app)[reference](https://codepen.io/gaearon/pen/gWWZgR?editors=0010)
+
 - To do
-  - [Tic-Tac-Toe](https://en.wikipedia.org/wiki/Tic-tac-toe)(react)[Source Code](https://github.com/boyuan1228/boyuan1228.github.io/tree/main/app)
-  - A combined project by using HTML, CSS, TS/JS, etc...s
+  - Gomoku: a combined project by using HTML, CSS, TS/JS, etc...
 
 ## Portfolio
 

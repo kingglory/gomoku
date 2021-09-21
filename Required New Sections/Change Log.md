@@ -44,6 +44,8 @@
   - Sept. 21th
     - found out [how](https://stackoverflow.com/questions/47928735/react-scripts-is-not-recognized-as-an-internal-or-external-command) to recover the react jason file
     - fixed link on My Web
+    - final sumbit fot Tic-Tac-Toe
+    - start do the Gomoku
 
 
 ## October
