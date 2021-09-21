@@ -41,6 +41,9 @@
   - Sept. 18th
     - study git, added git cheat sheet, and some info about SVN
     - after watched "Other resources" the created new file called[Note](https://github.com/boyuan1228/boyuan1228.github.io/blob/main/Required%20New%20Sections/Note.md), for record some useful info from videos and tips, also conclusion
+  - Sept. 21th
+    - found out [how](https://stackoverflow.com/questions/47928735/react-scripts-is-not-recognized-as-an-internal-or-external-command) to recover the react jason file
+    - fixed link on My Web
 
 
 ## October
