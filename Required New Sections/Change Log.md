@@ -46,6 +46,8 @@
     - fixed link on My Web
     - final sumbit fot Tic-Tac-Toe
     - start do the Gomoku
+  - Sept. 23th
+    - fork and clone from class matrails and have extra help from a [web](https://docs.github.com/en/get-started/quickstart/fork-a-repo)
 
 
 ## October
