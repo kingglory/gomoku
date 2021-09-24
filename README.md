@@ -3,7 +3,6 @@
 - [CISC 275](https://catalog.udel.edu/preview_course_nopop.php?catoid=47&coid=273278) INTRODUCTION TO SOFTWARE ENGINEERING
 - [Change Log](https://github.com/boyuan1228/boyuan1228.github.io/blob/main/Required%20New%20Sections/Change%20Log.md)
 - [To Do](https://github.com/boyuan1228/boyuan1228.github.io/blob/main/Required%20New%20Sections/To%20Do.md)
-- [Note](https://github.com/boyuan1228/boyuan1228.github.io/blob/main/Required%20New%20Sections/Note.md)
 
 - ~~[New Repository](https://github.com/boyuan1228/react_app_boyuan.github.io) to be continued!!!~~
 
@@ -20,6 +19,7 @@
 ## Mini Project
 
 - Done
+
   - [My web](https://boyuan1228.github.io/Achievements/boyuanpages.html)
   - [Magic Tools](https://boyuan1228.github.io/Achievements/JS/index.html) _a Calculator_
   - [Tic-Tac-Toe](https://en.wikipedia.org/wiki/Tic-tac-toe)(react)
@@ -60,6 +60,7 @@
   - [Cheat Sheet 1](https://about.gitlab.com/images/press/git-cheat-sheet.pdf)
   - [Cheat Sheet 2](https://confluence.atlassian.com/bitbucketserver/basic-git-commands-776639767.html)
   - [Study Link](https://www.atlassian.com/git/tutorials/git-bash)
+- [Note](https://github.com/boyuan1228/boyuan1228.github.io/blob/main/Required%20New%20Sections/Note.md)
 
 ### Other resources <br> for additional help
 
