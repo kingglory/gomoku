@@ -49,6 +49,15 @@
   - Sept. 23th
     - fork and clone from class matrails and have extra help from a [web](https://docs.github.com/en/get-started/quickstart/fork-a-repo)
     - run the test
+    - found a website to open the react online: netlify, learned on [youtube](https://www.bing.com/videos/search?q=how+react+deploy+new+link&docid=608025635336626890&mid=3D55FFB2024D52A9942A3D55FFB2024D52A9942A&view=detail&FORM=VIRE)
+    - stop using netlify, bc it charge fees
+    - cannot open react app in other link, not local host
+    - try to fixed 
+    - begin the gomoku games.
+    - have issue on gomoku game same as "ttt" game, also use the to fixed it {npm install react-scripts --save}
+    - till I finish the react link, I will start working on gomoku
+    - schedule work on to do
+    - submit for mile stone 3
 
 
 ## October

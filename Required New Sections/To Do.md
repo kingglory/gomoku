@@ -54,3 +54,11 @@
   - created [Note](https://github.com/boyuan1228/boyuan1228.github.io/blob/main/Required%20New%20Sections/Note.md)
   - finished Tic-Tac-Toe
   - try to make a Gomoku
+  - depoly the react project
+  - make a solid plan for further
+  - after submit milestone 3 working on gomoku
+  - one one thing is undone, the react link still localhost:3000
+
+## Sept. 24th --------
+- working on group project
+- working on gomoku project during the weekend
