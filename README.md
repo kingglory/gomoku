@@ -22,10 +22,11 @@
 
   - [My web](https://boyuan1228.github.io/Achievements/boyuanpages.html)
   - [Magic Tools](https://boyuan1228.github.io/Achievements/JS/index.html) _a Calculator_
+    - Tool demo ![Tool demo](https://github.com/boyuan1228/boyuan1228.github.io/blob/main/Achievements/JS/MT.gif)
   - [Tic-Tac-Toe](https://en.wikipedia.org/wiki/Tic-tac-toe)(react)
     - [Source Code](https://github.com/boyuan1228/boyuan1228.github.io/tree/main/app)
     - [reference](https://codepen.io/gaearon/pen/gWWZgR?editors=0010)
-    - Game demo <br /> ![Game Domo](https://boyuan1228.github.io/app/ttt.gif)
+    - Game demo <br /> ![Game demo](https://boyuan1228.github.io/app/ttt.gif)
 
 - To do
   - Gomoku: a combined project by using HTML, CSS, TS/JS, etc...
