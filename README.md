@@ -22,7 +22,7 @@
 
   - [My web](https://boyuan1228.github.io/Achievements/boyuanpages.html)
   - [Magic Tools](https://boyuan1228.github.io/Achievements/JS/index.html) _a Calculator_
-    - Tool demo <br />![Tool demo](https://github.com/boyuan1228/boyuan1228.github.io/Achievements/JS/MT.gif)
+    - Tool demo <br /> ![Tool demo](https://boyuan1228.github.io/Achievements/JS/MT.gif)
   - [Tic-Tac-Toe](https://boyuan1228.github.io/ttt-app/)(react)
     - [Source Code](https://github.com/boyuan1228/boyuan1228.github.io/tree/main/app)
     - [reference](https://codepen.io/gaearon/pen/gWWZgR?editors=0010)
