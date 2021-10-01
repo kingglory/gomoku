@@ -67,6 +67,9 @@
   - Sept. 28th
   - Sept. 29th
   - Sept. 30th
+    - finished the gomoku coding, but still have some issue
+    - changed readme
+    - updated the todo
 
 
 ## October
