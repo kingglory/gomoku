@@ -58,6 +58,15 @@
     - till I finish the react link, I will start working on gomoku
     - schedule work on to do
     - submit for mile stone 3
+  - Sept. 24th
+    - got feedback from canvas, "the game can't handle a tie"
+    - study the [git commit](https://www.perforce.com/blog/vcs/git-best-practices-git-commit)
+  - Sept. 25th
+  - Sept. 26th
+  - Sept. 27th
+  - Sept. 28th
+  - Sept. 29th
+  - Sept. 30th
 
 
 ## October

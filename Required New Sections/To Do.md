@@ -66,3 +66,6 @@
 
 - working on group project
 - working on gomoku project during the weekend
+
+- fix the problem from feedback
+- learning canvas, use to draw a table/game board

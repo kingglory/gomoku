@@ -1,130 +1,230 @@
-import React from 'react';
-import ReactDOM from 'react-dom';
-import './index.css';
-class Square extends React.Component {
-// state realized interactive functions
-// Add a construction method to the Square component
+//判断是否结束
+var over = false;
 
+//判断落子方
+var me = true; //我
 
-constructor(props) {
-  super(props);
-  this.state = {
-      squares: Array(9).fill(null),
-      /* boolean */
-      iXNext:true,
-  };
-}
-
-
-render() {
-  return (
-      <button className="square"
-          onClick={() => this.props.onClick()}
-      >
-          {this.props.value}
-      </button>
-  );
-}
-
-
-
-
-  }
-  function calculateWinner(squares) {
-    const lines = [
-        [0, 1, 2],
-        [0, 4, 8],
-        [0, 3, 6],
-        [1, 4, 7],
-        [2, 4, 6],
-        [2, 5, 8],
-        [3, 4, 5],
-        [6, 7, 8]
-    ];
-    for (let i = 0; i < lines.length; i++) {
-        const [a, b, c] = lines[i];
-        if (squares[a] && squares[a] === squares[b] && squares[a] === squares[c]) {
-            return squares[a];
-        }
+var chressBord = [];//棋盘
+for(var i = 0; i < 15; i++){
+    chressBord[i] = [];
+    for(var j = 0; j < 15; j++){
+        chressBord[i][j] = 0;
     }
-    return null;
 }
 
-  class Board extends React.Component {
-    
-    constructor(props) {
-      super(props);
-      this.state = {
-          squares: Array(9).fill(null),
-      };
-  }
+//赢法的统计数组
+var myWin = [];
+var computerWin = [];
 
-  handleClick(i) {
-    const squares = this.state.squares.slice();
-    if(calculateWinner(squares) || squares[i]) {
+//赢法数组
+var wins = [];
+for( i = 0; i < 15; i++){
+    wins[i] = [];
+    for( j = 0; j < 15; j++){
+        wins[i][j] = [];
+    }
+}
+
+var count = 0; //赢法总数
+//横线赢法
+for( i = 0; i < 15; i++){
+    for( j = 0; j < 11; j++){
+        for(var k = 0; k < 5; k++){
+            wins[i][j+k][count] = true;
+        }
+        count++;
+    }
+}
+
+//竖线赢法
+for( i = 0; i < 15; i++){
+    for( j = 0; j < 11; j++){
+        for( k = 0; k < 5; k++){
+            wins[j+k][i][count] = true;
+        }
+        count++;
+    }
+}
+
+//正斜线赢法
+for( i = 0; i < 11; i++){
+    for( j = 0; j < 11; j++){
+        for( k = 0; k < 5; k++){
+            wins[i+k][j+k][count] = true;
+        }
+        count++;
+    }
+}
+
+//反斜线赢法
+for( i = 0; i < 11; i++){
+    for( j = 14; j > 3; j--){
+        for( k = 0; k < 5; k++){
+            wins[i+k][j-k][count] = true;
+        }
+        count++;
+    }
+}
+
+for( i = 0; i < count; i++){
+    myWin[i] = 0;
+    computerWin[i] = 0;
+}
+
+var chess = document.getElementById('chess');
+ 
+var context = chess.getContext('2d');
+var logo = new Image();
+logo.src = 'images/logo.jpg';
+logo.onload  = function(){
+    context.drawImage(logo,0,0,450,450);
+    drawChessBoard();
+}
+
+document.getElementById("restart").onclick = function(){
+    window.location.reload();
+}
+chess.onclick = function(e){
+    if(over){
         return;
     }
-    squares[i] = this.state.iXNext ? 'O' : 'X';
-    this.setState({
-        squares: squares,
-        iXNext: !this.state.iXNext,
-    });
-}
-
-
-
-
-  renderSquare(i) {
-    return <Square
-        value={this.state.squares[i]}
-        onClick={() => this.handleClick(i)}
-    />;
-}
-
-// jsx 去实现棋盘 
-render() {
-    const { border, palyArr } = this.state;
-    return (
-      <div className="chessboard-wrapper">
-        <div className="chessboard">
-          {border.map((row, rowIndex) => (
-            <div className="chessboard-row" key={`row + ${rowIndex}`}>
-              {border.map((col, colIndex) => (
-                <div className="chessboard-col" key={`col + ${colIndex}`}>
-                  <div className="chessboard-cell">
-                    {/* 这里去渲染不同类型棋子 */}
-                  </div>
-                </div>
-              ))}
-            </div>
-          ))}
-        </div>
-      </div>
-    );
-  }
-
-}
-
-  
-  class Game extends React.Component {
-    render() {
-      return (
-        <div className="game">
-          <div className="game-board">
-            <Board />
-          </div>
-          <div className="game-info">
-            <div>{/* status */}</div>
-            <ol>{/* TODO */}</ol>
-          </div>
-        </div>
-      );
+    if(!me){
+        return;
     }
-  }
-  
-  // ========================================
-  
-  ReactDOM.render(
-    <Game />,
-    document.getElementById('root')
-  );
+    var x = e.offsetX;
+    var y = e.offsetY;
+    var i = Math.floor(x / 30);
+    var j = Math.floor(y / 30);
+    if(chressBord[i][j] === 0){
+        oneStep(i,j,me);
+        chressBord[i][j] = 1;//我        
+
+        for(var k = 0; k < count; k++){
+            if(wins[i][j][k]){
+                myWin[k]++;
+                computerWin[k] = 6;//这个位置对方不可能赢了
+                if(myWin[k] === 5){
+                    window.alert('你赢了');
+                    over = true;
+                }
+            }
+        }
+        if(!over){
+            me = !me;
+            computerAI();
+        }
+    }
+
+}
+//计算机下棋
+var computerAI = function (){
+    var myScore = [];
+    var computerScore = [];
+    var max = 0;
+    var u = 0, v = 0;
+    for(var i = 0; i < 15; i++){
+        myScore[i] = [];
+        computerScore[i] = [];
+        for(var j = 0; j < 15; j++){
+            myScore[i][j] = 0;
+            computerScore[i][j] = 0;
+        }
+    }
+    for( i = 0; i < 15; i++){
+        for( j = 0; j < 15; j++){
+            if(chressBord[i][j] === 0){
+                for(var k = 0; k < count; k++){
+                    if(wins[i][j][k]){
+                        if(myWin[k] === 1){
+                            myScore[i][j] += 200;
+                        }else if(myWin[k] === 2){
+                            myScore[i][j] += 400;
+                        }else if(myWin[k] === 3){
+                            myScore[i][j] += 2000;
+                        }else if(myWin[k] === 4){
+                            myScore[i][j] += 10000;
+                        }
+
+                        if(computerWin[k] === 1){
+                            computerScore[i][j] += 220;
+                        }else if(computerWin[k] === 2){
+                            computerScore[i][j] += 420;
+                        }else if(computerWin[k] === 3){
+                            computerScore[i][j] += 2100;
+                        }else if(computerWin[k] === 4){
+                            computerScore[i][j] += 20000;
+                        }                        
+                    }
+                }
+
+                if(myScore[i][j] > max){
+                    max  = myScore[i][j];
+                    u = i;
+                    v = j;
+                }else if(myScore[i][j] === max){
+                    if(computerScore[i][j] > computerScore[u][v]){
+                        u = i;
+                        v = j;    
+                    }
+                }
+
+                if(computerScore[i][j] > max){
+                    max  = computerScore[i][j];
+                    u = i;
+                    v = j;
+                }else if(computerScore[i][j] === max){
+                    if(myScore[i][j] > myScore[u][v]){
+                        u = i;
+                        v = j;    
+                    }
+                }
+
+            }
+        }
+    }
+    oneStep(u,v,false);
+    chressBord[u][v] = 2;
+    for( k = 0; k < count; k++){
+        if(wins[u][v][k]){
+            computerWin[k]++;
+            myWin[k] = 6;//这个位置对方不可能赢了
+            if(computerWin[k] === 5){
+                window.alert('计算机赢了');
+                over = true;
+            }
+        }
+    }
+    if(!over){
+        me = !me;
+    }
+}
+
+//绘画棋盘
+var drawChessBoard = function(){
+    for(var i = 0; i < 15; i++){
+        context.moveTo(15 + i * 30 , 15);
+        context.lineTo(15 + i * 30 , 435);
+        context.stroke();
+        context.moveTo(15 , 15 + i * 30);
+        context.lineTo(435 , 15 + i * 30);
+        context.stroke();
+    }
+}
+//画旗子
+var oneStep = function(i,j,me){
+    context.beginPath();
+    context.arc(15 + i * 30, 15 + j * 30, 13, 0, 2 * Math.PI);//画圆
+    context.closePath();
+    //渐变
+    var gradient = context.createRadialGradient(15 + i * 30 + 2, 15 + j * 30 - 2, 13, 15 + i * 30 + 2, 15 + j * 30 - 2, 0);
+
+    if(me){
+        gradient.addColorStop(0,'#0a0a0a');
+        gradient.addColorStop(1,'#636766');
+    }else{
+        gradient.addColorStop(0,'#d1d1d1');
+        gradient.addColorStop(1,'#f9f9f9');
+    }
+    context.fillStyle = gradient;
+    context.fill();
+}
