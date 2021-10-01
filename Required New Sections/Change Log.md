@@ -70,6 +70,7 @@
     - finished the gomoku coding, but still have some issue
     - changed readme
     - updated the todo
+    - found issue: "TypeError: Cannot read properties of null (reading 'getContext')"
 
 
 ## October

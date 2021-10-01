@@ -1,58 +1,12 @@
-index.css body {
-    font-family: Futura, Trebuchet, Arial, sans-serif;
-    margin: 20px;
-  }
-  
-  ol,
-  ul {
-    padding-left: 50px;
-  }
-  
-  .board-row:after {
-    clear: both;
-    content: "";
-    display: table;
-  }
-  
-  .status {
-    /* space to top */
-    margin-bottom: 80px;
-  }
-  
-  .square {
-    background: green;
-    border: 0.5px solid red;
-  
-    float: left;
-  
-    font-size: 90px;
-    font-weight: bold;
-  
-    line-height: 0px;
-  
-    margin-right: 0px;
-    margin-top: 0px;
-    padding: 0;
-  
-    text-align: center;
-  
-    width: 100px;
-    height: 100px;
-  }
-  
-  .square:focus {
-    outline: none;
-  }
-  
-  .game {
-    /* in the top mid of the page*/
-    justify-content: center;
-    display: flex;
-  
-    flex-direction: row;
-  }
-  
-  .game-info {
-    margin-left: 20px;
-  }
-  
+body {
+    margin: 0;
+    background: #ccc;
+
+}
+#canvas {
+    display: block;
+    margin: 20px auto;
+    width: 450px;
+    height: 450px;
+    background: #fff;
+}
